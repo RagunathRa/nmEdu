@@ -1,5 +1,5 @@
 function sayHello() {
-    const x = 88;
+    const x = 71;
     console.log("Hello, World!", x);
     alert("Hello Everyone..! ")
   }
